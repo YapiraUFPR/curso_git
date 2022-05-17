@@ -1,4 +1,3 @@
 # Participantes
 
-* Coelho
-* Hishida
+ - Coelho
