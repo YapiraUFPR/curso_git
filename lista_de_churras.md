@@ -8,7 +8,7 @@
 * Isa
 * Milena
 * Hendrik
-
+* Eloiza
 ## Comentário
 
 30 pila cada, levem suas bebidas
