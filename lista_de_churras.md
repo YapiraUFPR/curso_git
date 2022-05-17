@@ -7,6 +7,7 @@
 * Sampaio
 * Isa
 * Milena
+* Hendrik
 
 ## Comentário
 
